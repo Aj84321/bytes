@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <h2 className="text-white text-2xl font-bold">Gokhana</h2>
+            <h2 className="text-white text-2xl font-bold">Bytes</h2>
             <p className="mt-4 text-gray-400">
               Transforming businesses through digital excellence. We provide cutting-edge solutions
               to help your business grow in the digital age.
@@ -42,7 +42,7 @@ const Footer = () => {
         </div>
         <div className="mt-8 pt-8 border-t border-gray-700">
           <p className="text-center text-gray-400">
-            © {new Date().getFullYear()} Gokhana. All rights reserved.
+            © {new Date().getFullYear()} Bytes. All rights reserved.
           </p>
         </div>
       </div>

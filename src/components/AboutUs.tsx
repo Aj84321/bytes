@@ -7,7 +7,7 @@ const AboutUs = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:text-center">
           <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-            About Gokhana
+            About Bytes
           </h2>
           <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
             Delivering excellence in corporate catering with a passion for quality and service
@@ -61,7 +61,7 @@ const AboutUs = () => {
                   Our Story
                 </h3>
                 <p className="mt-3 text-lg text-gray-500">
-                  Founded with a vision to revolutionize corporate catering, Gokhana has been serving
+                  Founded with a vision to revolutionize corporate catering, Bytes has been serving
                   businesses with exceptional food and service for over a decade. Our commitment to
                   quality and innovation has made us a trusted partner for companies across the region.
                 </p>
